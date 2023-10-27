@@ -1,0 +1,47 @@
+   /*reseteo de algunas propiedades*/
+/*classes utilitarias*/
+.colorWhite{
+    color: white;
+}
+.colorGris{
+    color: rgb(79,83 ,87 );
+}
+.colorVerde{
+    color: rgb(40, 167, 69);
+}
+.logoNav{
+    background-color: rgb(53, 58, 64);
+    font-size: 1.5rem;
+}
+/*.listaHeader{
+    list-style: none;
+}*/
+/*.listaHeader li{
+    list-style: none;
+}*/
+/*.listaHeader{
+    display: inline;
+}*/
+header ul li{
+    list-style: none;
+    display: inline;
+}
+.linkNav{
+    text-decoration: none;
+}
+
+/*display (propiedad que define si un elemento es en bloque o en linea)
+
+
+display: none; (lo vamos a ver)
+display: block; (lo vamos a ver) (por defecto) (BLOCK, SIGNIFICA: ocupan el ancho de su contenedor padre, sin importar el contenido que tenga)
+display: inline-block; (lo vamos a ver)
+display: inline; (lo vamos a ver)  (por defecto) (INLINE, SIGNIFICA: solo ocupa de ancho lo que tenian de contenido dentro)
+display: flex; (lo vamos a ver)
+display: grid;
+display: table;
+display: table-cell;
+display: table-row;
+display: table-column;
+
+*/
